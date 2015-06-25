@@ -1,0 +1,2 @@
+# myHoogle
+Haskell programs.
